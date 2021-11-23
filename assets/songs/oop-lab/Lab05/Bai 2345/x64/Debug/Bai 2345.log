@@ -1,0 +1,18 @@
+﻿  DaGiac.cpp
+C:\Users\dangh\Downloads\Compressed\OOP_BTH5\Bai 2345\DaGiac.cpp(38,40): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\dangh\Downloads\Compressed\OOP_BTH5\Bai 2345\DaGiac.cpp(39,43): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\dangh\Downloads\Compressed\OOP_BTH5\Bai 2345\DaGiac.cpp(43,48): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+  Diem.cpp
+  HinhBinhHanh.cpp
+  HinhChuNhat.cpp
+  HinhVuong.cpp
+  NguGiac.cpp
+  Source.cpp
+  TamGiac.cpp
+  TuGiac.cpp
+  Generating Code...
+C:\Users\dangh\Downloads\Compressed\OOP_BTH5\Bai 2345\DaGiac.cpp(44,51): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+DaGiac.obj : error LNK2019: unresolved external symbol drawpoly referenced in function "public: virtual void __cdecl DaGiac::Ve(void)" (?Ve@DaGiac@@UEAAXXZ)
+DaGiac.obj : error LNK2019: unresolved external symbol initwindow referenced in function "public: virtual void __cdecl DaGiac::Ve(void)" (?Ve@DaGiac@@UEAAXXZ)
+Do Hoa\graphics.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\dangh\Downloads\Compressed\OOP_BTH5\x64\Debug\Bai 2345.exe : fatal error LNK1120: 2 unresolved externals

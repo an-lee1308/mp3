@@ -1,0 +1,10 @@
+﻿  DaGiac.cpp
+C:\Users\dangh\Downloads\Compressed\OOP_BTH5\Bai 2345\DaGiac.cpp(37,40): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\dangh\Downloads\Compressed\OOP_BTH5\Bai 2345\DaGiac.cpp(38,43): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\dangh\Downloads\Compressed\OOP_BTH5\Bai 2345\DaGiac.cpp(42,48): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+  HinhBinhHanh.cpp
+  HinhChuNhat.cpp
+  Source.cpp
+  Generating Code...
+C:\Users\dangh\Downloads\Compressed\OOP_BTH5\Bai 2345\DaGiac.cpp(43,51): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+  Bai 2345.vcxproj -> C:\Users\dangh\Downloads\Compressed\OOP_BTH5\Debug\Bai 2345.exe
